@@ -11,4 +11,4 @@ This is a simple command-line calculator built using Python.
 - Calculation history
 
 ## Author
-Trisna Roy
+Trisna Rani Roy
